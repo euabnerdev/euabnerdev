@@ -3,7 +3,7 @@
 My name is Abner Silva            
 - :mortar_board: I'm a Systems Development Analysis student                              
 - 👨🏽‍💻 Modeling my journey as a Mobile Developer
-- :books: Currently developing in Java, JavaScript, SQL, NodeJS.
+- :books: Currently developing in React Native, Flutter, NodeJS, MySQL, JavaScript.
 - 🧠 Sharing studies and tips on Instagram
 - :earth_americas: From Brasilia, Brazil
 

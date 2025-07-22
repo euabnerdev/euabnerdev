@@ -1,11 +1,11 @@
 # Hello! 	
 
-My name is Abner Silva            
-- :mortar_board: I'm a Systems Development Analysis student                              
-- 👨🏽‍💻 Modeling my journey as a Mobile Developer
-- :books: Currently developing in React Native, Flutter, NodeJS, MySQL, JavaScript.
-- 🧠 Sharing studies and tips on Instagram
-- :earth_americas: From Brasilia, Brazil
+My name is Abner Silva
+- :mortar_board: Graduated in Systems Analysis and Development. Postgraduate in Data Science & Big Data Analytics
+- 👨🏽‍💻 Shaping my journey as a Data Scientist and Back-End Developer
+- :books: Currently developing in Python, JavaScript, NodeJS, and SQL.
+- 🧠 Sharing studies and tips on Instagram @euabner.data
+- :earth_americas: From Brasília, Brazil
 
 
 
